@@ -1,1 +1,6 @@
 tekst.txt
+*.log
+*.build
+debug.pdf
+debug.tmp
+debug.log
